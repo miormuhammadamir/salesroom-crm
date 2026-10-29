@@ -1,5 +1,5 @@
 # Salesroom — Django sales tracker
-<img width="1848" height="926" alt="image" src="https://github.com/user-attachments/assets/79238d81-a5f1-489a-8ba3-7fd19b7e73d5" />
+
 
 A runnable sales CRM using Python, Django 5.2, and SQLite, with server-rendered pages and dependency-free SVG dashboard charts. Default currency: MYR (RM). Timezone: Asia/Kuala_Lumpur.
 
